@@ -1,3 +1,6 @@
-.DS_Store$
-mywork.c~$
+#!/bin/bash
+
+find ~ -name .gitignore -exec cat {} \;
+
+
 
