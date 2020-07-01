@@ -1,0 +1,5 @@
+Credentials cache: API:49C84464-7D47-4F02-9E30-408C3BA6002E
+        Principal: shwang@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jul  1 14:12:40 2020  Jul  2 00:12:34 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
